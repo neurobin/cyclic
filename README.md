@@ -29,4 +29,5 @@ cy.add(A, C)
 # let's see if C is in any kind of cyclic relation
 
 print(cy.is_cyclic(C)) # True
+
 ```
